@@ -22,6 +22,7 @@ files {
     'html/locales/fr.js',
     'html/locales/en.js',
     'html/locales/pl.js',
+    'html/locales/da.js',
 }
 
 dependency 'es_extended'
